@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+.gold{
+	border: 1px solid black;
+	padding: 1px 10px 1px 10px;
+}
+
+.box{
+	border: 1px solid black;
+	padding: 10px;
+	display: inline-block;
+	width: 155px;
+	margin: 5px;
+	text-align: center;
+	
+}
+
+.activities_box{
+	border: 1px solid black;
+	padding: 1px 10px 1px 10px;
+	width: 420px;
+	height: 150px;
+	overflow-y: scroll;
+}
+
+.header{
+	border: 1px solid black;
+	padding: 1px 10px 1px 10px;
+	width: 155px;
+	margin: 5px;
+}
+
+.header p{
+	text-align: center;
+}
+
+.green{
+	color: green;
+}
+
+
+.red{
+	color: red;
+}
